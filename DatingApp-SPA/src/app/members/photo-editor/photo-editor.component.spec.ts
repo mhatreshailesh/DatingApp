@@ -3,21 +3,21 @@ import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 import { By } from '@angular/platform-browser';
 import { DebugElement } from '@angular/core';
 
-import { MemberEditComponent } from './member-edit.component';
+import { PhotoEditorComponent } from './photo-editor.component';
 
-describe('MemberEditComponent', () => {
-  let component: MemberEditComponent;
-  let fixture: ComponentFixture<MemberEditComponent>;
+describe('PhotoEditorComponent', () => {
+  let component: PhotoEditorComponent;
+  let fixture: ComponentFixture<PhotoEditorComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ MemberEditComponent ]
+      declarations: [ PhotoEditorComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(MemberEditComponent);
+    fixture = TestBed.createComponent(PhotoEditorComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
@@ -26,5 +26,3 @@ describe('MemberEditComponent', () => {
     expect(component).toBeTruthy();
   });
 });
-
-
