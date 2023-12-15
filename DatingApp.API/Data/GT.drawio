@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T14:08:07.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9TqxHEO5jhAz-icVmtuT" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T14:10:50.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kBqi1iXMpBCGWFTQUISz" version="22.1.8" type="github">
   <diagram name="Page-1" id="MsTjWMy3AAZc4Vz8B7oc">
     <mxGraphModel dx="1120" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -409,6 +409,12 @@
         </mxCell>
         <mxCell id="TkFcFIbii5dXcjV-Ogx_-151" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size: 11.29px; color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1;&quot;&gt;App Insights&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;vsdxID=1584;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" vertex="1" parent="1">
           <mxGeometry x="756.23" y="783.22" width="99" height="13.46" as="geometry" />
+        </mxCell>
+        <mxCell id="TkFcFIbii5dXcjV-Ogx_-157" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:Segoe UI;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;Azure&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" style="text;vsdxID=1594;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0.5,1.3,0],[0.5,0,0],[0,0.5,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="101.6" height="16.94" as="geometry" />
+        </mxCell>
+        <mxCell id="TkFcFIbii5dXcjV-Ogx_-159" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_instance;" vertex="1" parent="1">
+          <mxGeometry x="501" y="30" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
