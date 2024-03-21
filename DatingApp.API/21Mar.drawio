@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T12:24:20.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="qel3PsuJ0f_bqypvD4HL" version="24.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-21T12:26:46.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7Yyb-apIrcVGOfapU-vv" version="24.0.2" type="github" pages="3">
   <diagram name="Copy of MPG-3" id="3KPE2uxdrxkgs8o_WkRF">
     <mxGraphModel dx="1600" dy="1496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -984,8 +984,8 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="_T2GzmWjYM1ShMlDZg8T-55" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;R&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;E&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;P&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;L&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;I&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;C&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;A&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;T&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;I&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;O&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;N&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1330.001111111111" y="147.40512634457772" width="30" height="170" as="geometry" />
+        <mxCell id="_T2GzmWjYM1ShMlDZg8T-55" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;GEO&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;R&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;E&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;P&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;L&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;I&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;C&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;A&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;T&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;I&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;O&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;N&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1320.001111111111" y="137.40512634457772" width="50" height="190" as="geometry" />
         </mxCell>
         <mxCell id="8C3Gz7jIE-TGe1q9B8e6-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="760" y="190" width="110" height="61.799999999999955" as="geometry" />
@@ -1045,7 +1045,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Active- Active" id="t0R4YNqbmxuIK0oPiFyA">
-    <mxGraphModel dx="1120" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1318" dy="1378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KzhbSfYvs7U0m7EbLzoI-0" />
         <mxCell id="KzhbSfYvs7U0m7EbLzoI-1" parent="KzhbSfYvs7U0m7EbLzoI-0" />
@@ -1491,9 +1491,6 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="KzhbSfYvs7U0m7EbLzoI-130" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;R&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;E&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;P&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;L&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;I&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;C&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;A&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;T&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;I&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;O&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;N&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KzhbSfYvs7U0m7EbLzoI-1">
-          <mxGeometry x="1330.001111111111" y="147.40512634457772" width="30" height="170" as="geometry" />
-        </mxCell>
         <mxCell id="KzhbSfYvs7U0m7EbLzoI-131" value="" style="group" vertex="1" connectable="0" parent="KzhbSfYvs7U0m7EbLzoI-1">
           <mxGeometry x="760" y="190" width="110" height="61.799999999999955" as="geometry" />
         </mxCell>
@@ -1547,6 +1544,9 @@
         </mxCell>
         <mxCell id="iHc0OgpuwWFxupDHdt5S-0" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Application&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Instance -1&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;spacing=0;" vertex="1" parent="KzhbSfYvs7U0m7EbLzoI-1">
           <mxGeometry x="208" y="342" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mmUgRzZ1H9KgHO-WE-Uj-0" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;GEO&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;R&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;E&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;P&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;L&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;I&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;C&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;A&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;T&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;I&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;O&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;N&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KzhbSfYvs7U0m7EbLzoI-1">
+          <mxGeometry x="1320.001111111111" y="137.40512634457772" width="50" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
