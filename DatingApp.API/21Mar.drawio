@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T07:02:33.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ege_pAWJFCDTmTshXzb0" version="24.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-25T07:04:52.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="fOiIEl2mT8bYiplpUWY6" version="24.0.2" type="github" pages="4">
   <diagram id="YmhIbSTXqEwdcQPMIAnq" name="Active-StandBy">
-    <mxGraphModel dx="1400" dy="1370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="974" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,12 +127,12 @@
           <mxGeometry x="766" y="183.59" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_T2GzmWjYM1ShMlDZg8T-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1083" y="94.09" width="217" height="170.91" as="geometry" />
+          <mxGeometry x="1083" y="94.09" width="217" height="175.02598536631538" as="geometry" />
         </mxCell>
         <mxCell id="dAmVntmJXgu7kkPErW73-17" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="_T2GzmWjYM1ShMlDZg8T-3">
           <mxGeometry width="217" height="170.91" as="geometry" />
         </mxCell>
-        <mxCell id="dAmVntmJXgu7kkPErW73-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Region -1 ( Active)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=0;" vertex="1" parent="_T2GzmWjYM1ShMlDZg8T-3">
+        <mxCell id="dAmVntmJXgu7kkPErW73-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Mumbai ( Primary)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=0;" vertex="1" parent="_T2GzmWjYM1ShMlDZg8T-3">
           <mxGeometry x="64.2962962962963" y="155.02598536631538" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dAmVntmJXgu7kkPErW73-53" value="" style="group" vertex="1" connectable="0" parent="_T2GzmWjYM1ShMlDZg8T-3">
@@ -214,8 +214,8 @@
         <mxCell id="_T2GzmWjYM1ShMlDZg8T-30" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="_T2GzmWjYM1ShMlDZg8T-29">
           <mxGeometry x="-3" width="217" height="170.91" as="geometry" />
         </mxCell>
-        <mxCell id="_T2GzmWjYM1ShMlDZg8T-31" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Region -2 ( Standby)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=0;" vertex="1" parent="_T2GzmWjYM1ShMlDZg8T-29">
-          <mxGeometry x="59.296296296296305" y="155.02598536631538" width="120" height="20" as="geometry" />
+        <mxCell id="_T2GzmWjYM1ShMlDZg8T-31" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Delhi (DR)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=0;" vertex="1" parent="_T2GzmWjYM1ShMlDZg8T-29">
+          <mxGeometry x="84.2962962962963" y="155.02598536631538" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_T2GzmWjYM1ShMlDZg8T-32" value="" style="group" vertex="1" connectable="0" parent="_T2GzmWjYM1ShMlDZg8T-29">
           <mxGeometry x="8.037037037037038" y="8.440668598071609" width="138.9633333333334" height="146.58771235429646" as="geometry" />
@@ -363,7 +363,7 @@
         <mxCell id="POML0BUS-4XFjJ8fq2-u-33" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="445" y="211" width="280" height="279" as="geometry" />
         </mxCell>
-        <mxCell id="POML0BUS-4XFjJ8fq2-u-34" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;South India ( DR)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=0;" vertex="1" parent="1">
+        <mxCell id="POML0BUS-4XFjJ8fq2-u-34" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;South India (DR)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="533" y="471" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="POML0BUS-4XFjJ8fq2-u-35" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Azure_Red_Hat_OpenShift.svg;" vertex="1" parent="1">
